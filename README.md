@@ -2,8 +2,8 @@
 
 A collection of data analytics work — SQL-heavy data wrangling, validation, and transforming large, messy datasets into analytics-ready pipelines.
 
+<!--
 ---
-
 ## 💼 Work Highlights
 
 Professional work that isn't public but shaped how I build:
@@ -13,6 +13,7 @@ Professional work that isn't public but shaped how I build:
 - ⚙️ [Another outcome-focused highlight — the dataset, your approach, and the measurable result]
 
 ---
+-->
 
 ## 📁 Projects
 
